@@ -2,7 +2,9 @@ let code1;
 
 code1 = 7 + 3;
 
-let code2 = 84 / 2 - 2;
+let code2;
+
+code2 = 84 / 2 - 2;
 
 let code3 = 12 * 3 + (15 % 6);
 
